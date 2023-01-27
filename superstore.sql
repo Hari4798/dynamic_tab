@@ -1,1 +1,3 @@
-Select * from Superstore;
+Select *
+from Superstore 
+where city='detroit';
