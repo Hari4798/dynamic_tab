@@ -1,3 +1,4 @@
 Select *
 from Superstore 
-where city='detroit';
+where city='detroit'
+limit 100;
